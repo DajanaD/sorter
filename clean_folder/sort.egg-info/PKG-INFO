@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: sort
+Version: 1
+Home-page: https://github.com/DajanaD/sorter/tree/40b43583b24ace644a3a55a959532a85aa93ba8d/clean_folder
+Author: Diana
+Author-email: ccv080480@gmail.com
+License: MIT
+Requires-Dist: markdown
